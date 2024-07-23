@@ -1,0 +1,31 @@
+body {
+    background:rgb(214, 196, 250);
+}
+img {
+    border-radius: 50px;
+}
+p {
+    color: rgb(73, 22, 68);
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(202, 166, 215);
+    width: 580px;
+    height: 30px;
+    border-radius: 50px;
+    position: relative;
+    top: -400px;
+    left: 740px;
+}
+a {
+    background: rgb(202, 166, 215);
+    color: rgb(73, 22, 68);
+    text-align: center;
+    position: relative;
+    top: -290px;
+    left: 960px;
+    font-size: 30px;
+    padding: 40px;
+    border-radius: 50px;
+}
